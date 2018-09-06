@@ -1,0 +1,8 @@
+
+
+1.) Donwload Java language for selenium
+    https://www.seleniumhq.org/download/
+    You'll need to extract/unzip the folder
+
+2.) Go to the "Adding WebDriver to Eclipse" section for adding in selenium to your eclipse project.
+    https://saucelabs.com/resources/articles/how-to-configure-webdriver-selenium-for-java-in-eclipse-on-windows
