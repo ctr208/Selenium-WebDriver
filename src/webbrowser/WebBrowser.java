@@ -100,6 +100,8 @@ public class WebBrowser {
 			e.printStackTrace();
 		} 
 		
+		String a = "Ass";
+		System.out.println(a);
 		
 	}
 }
